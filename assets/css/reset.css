@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+}
+
+ul,
+li {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 500;
+}
+
+a,
+a:hover,
+a:focus,
+a:active,
+a:link {
+    outline: none;
+    text-decoration: none;
+}
+
+a.bs-btn:focus {
+    outline: 0;
+    box-shadow: none;
+}
+
+button.bs-btn:focus {
+    outline: 0;
+    box-shadow: none;
+}
+
+img {
+    width: 100%;
+}

@@ -1,0 +1,23 @@
+/* Mobile and tablet */
+@media (max-width: 63.96875em) {}
+
+/* Mobile */
+@media (max-width: 47.96875em) {}
+
+/* L Mobile: width > 375px and width <= 425px (min-width: 376px) and (max-width: 426px) */
+@media (min-width: 23.5em) and (max-width: 26.625em) {}
+
+/* M Mobile: width > 320px and width <= 375px (min-width: 321px) and (max-width: 376px) */
+@media (min-width: 20.0625em) and (max-width: 23.5em) {}
+
+/* S Mobile: width <= 320px (max-width: 321px) */
+@media (max-width: 20.0625em) {}
+
+/* Tablet */
+@media (min-width: 48em) and (max-width: 63.96875em) {}
+
+/* S PC */
+@media (min-width: 64em) and (max-width: 77.46875em) {}
+
+/* Big Screen */
+@media (min-width: 124.9375em) {}
