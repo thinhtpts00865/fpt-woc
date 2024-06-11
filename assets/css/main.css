@@ -129,12 +129,15 @@
 }
 
 .banner-btn {
+    display: flex;
+    align-items: center;
     position: absolute;
     top: 58%;
     left: 50%;
     transform: translate(-50%, -58%);
-    font-size: 2rem;
+    font-size: 2.4rem;
     font-weight: 700;
+    line-height: 2.4rem;
     color: var(--white-color);
     background: linear-gradient(to left, #416ef6 20%, #2a138f 60%) right;
     background-size: 200%;
