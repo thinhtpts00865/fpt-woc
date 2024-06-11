@@ -152,3 +152,8 @@
 .banner-btn i {
     font-size: 1.4rem;
 }
+
+/* Content */
+.content {
+    z-index: 9;
+}
